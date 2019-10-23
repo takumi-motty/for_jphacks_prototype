@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">ForJphacksPrototype</string>
+    <string name="button">Button</string>
+    <string name ="board">乗車</string>
+    <string name="getoff">降車</string>
+    <string name="sitdown">着席</string>
 </resources>
