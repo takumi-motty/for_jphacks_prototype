@@ -1,1 +1,2 @@
 # for_jphacks_prototype
+JPHacksに向けたプロトタイプ
